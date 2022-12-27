@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p>Welcome to my page! </br> I'm Ivan, Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Sintra, Portugal.</b>, 
+<h3>Things I code with</h3>
+
+
 <p>
     <div align="center">
         <img src="https://img.shields.io/github/followers/ivanSantos16?label=Follow&style=social">
@@ -68,14 +72,7 @@
        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white">
     </div>
 </p>
-<!-- Contact Section -->
-<p align="center">Contacts<p>
-<p>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/ivanrsantos/"rel="nofollow">
-  		<img alt="Ivan Santos's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-    </div>
-</p>
+
 
 <p>
     <div align="center">
@@ -93,6 +90,17 @@
     </div>
 </p>
 
+<!-- Contact Section -->
+<h3>Where to find me</h3>
+<p>
+    <div align="left">
+        <a href="https://www.linkedin.com/in/ivanrsantos/" rel="nofollow">
+  		<img alt="Ivan Santos's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+        <a href="https://github.com/ivanSantos16/" rel="nofollow">
+  		<img alt="Ivan Santos's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="max-width: 100%;">
+    </div>
+</p>
+https://www.flaticon.com/free-icon/github-logo_25231
 <!--
 **ivanSantos16/ivanSantos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
