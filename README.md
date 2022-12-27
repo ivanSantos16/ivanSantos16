@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/95190500/209678338-3962b275-7d74-4c06-b06e-3d2d5bbebbf3.png)
-![image](https://user-images.githubusercontent.com/95190500/209678342-70d3985b-3fff-4f6a-9c8d-d2e68753e7da.png)
+<p>
+    <div align="center">
+        <img src="img.shields.io/github/followers/ivanSantos16?style=social">
+    </div>
+</p>
 
 <!--
 **ivanSantos16/ivanSantos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
