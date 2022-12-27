@@ -68,8 +68,14 @@
        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white">
     </div>
 </p>
-
-
+<!-- Contact Section -->
+<p align="center">Contacts<p>
+<p>
+    <div align="center">
+        <a href="https://www.linkedin.com/in/ivanrsantos/"rel="nofollow">
+  		<img alt="Ivan Santos's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+    </div>
+</p>
 
 <p>
     <div align="center">
