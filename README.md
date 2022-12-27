@@ -2,7 +2,22 @@
 
 <p>
     <div align="center">
-        <img src="img.shields.io/github/followers/ivanSantos16?style=social">
+        <img src="https://img.shields.io/github/followers/ivanSantos16?label=Follow&style=social">
+    </div>
+</p>
+<p>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ivanSantos16&theme=blue-green">
+    </div>
+</p>
+<p>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green">
+    </div>
+</p>
+<p>
+    <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanSantos16&theme=blue-green">
     </div>
 </p>
 
