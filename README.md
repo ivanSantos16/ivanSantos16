@@ -98,9 +98,11 @@
   		<img alt="Ivan Santos's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
         <a href="https://github.com/ivanSantos16/" rel="nofollow">
   		<img alt="Ivan Santos's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="max-width: 100%;">
+        <a href="mailto:ivan.rafa.16@gmail.com" rel="nofollow">
+  		<img alt="Ivan Santos's GMAIL" width="22px" src="https://cdn-icons-png.flaticon.com/512/8898/8898833.png" style="max-width: 100%;">
     </div>
 </p>
-https://www.flaticon.com/free-icon/github-logo_25231
+
 <!--
 **ivanSantos16/ivanSantos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
