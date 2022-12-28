@@ -102,7 +102,7 @@
 <br>
 <p>
     <div align="center">
-        <img src="https://github-readme-stats.ivansantos16.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green">
+        <img src="https://github-readme-stats-yrx2.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green">
     </div>
 </p>
 
