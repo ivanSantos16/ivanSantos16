@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Ivan, Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Sintra, Portugal.</b>, 
+<p>Welcome to my page! </br> I'm Ivan, Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Sintra, Portugal.</b>
 
 ---
 
