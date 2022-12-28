@@ -95,7 +95,7 @@
 <br/>
 <p align="left">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ivanSantos16&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats-yrx2.vercel.app/api?username=ivanSantos16&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanSantos16&theme=blue-green&hide_border=true">		  
   </a>
 </p>
