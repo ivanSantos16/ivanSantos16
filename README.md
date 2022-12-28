@@ -89,22 +89,35 @@
     </div>
 </p>
 
-<!-- Statistics -->
+<!--START_SECTION:Statistics -->
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
 <p align="left">
   <a href="http://torrinleonard.com/">
-    <img width="49.5%" src="https://github-readme-stats-six-delta-65.vercel.app/api?username=ivanSantos16&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats-six-delta-65.vercel.app/api?username=ivanSantos16&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanSantos16&theme=blue-green&hide_border=true">		  
   </a>
 </p>
 <br>
 <p>
     <div align="center">
-        <img src="https://github-readme-stats-six-delta-65.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green&count-private=true">
+        <img src="https://github-readme-stats-six-delta-65.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
     </div>
 </p>
+<!--START_SECTION:waka-->
+<p>
+    <div align="center">
+        <img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&range=all_time">
+    </div>
+</p>
+<p>
+<!--END_SECTION:waka-->
+<!--END_SECTION:Statistics -->
+	    
+	    
+	   
+https://github-readme-stats.vercel.app/api/wakatime
 
 <!-- Current Projects -->
 
