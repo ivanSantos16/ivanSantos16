@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <p>Welcome to my page! </br> I'm Ivan, Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909361.png" width="13"/> <b>Sintra, Portugal.</b>, 
+
+---
+
 <h3>Things I code with</h3>
 
 
@@ -14,12 +17,23 @@
     <div align="center">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue">
         <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white">
+        <img src="https://custom-icon-badges.demolab.com/badge/-APEX-white?style=plastic&logo=salesforceapex">
         <img src="https://custom-icon-badges.demolab.com/badge/-Java-white?style=plastic&logo=javalanguage">
-        <img src=" https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white">
+        <img src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
     </div>
-</p>        
+</p> 
+<!-- Databases --> 
+<p>
+    <div align="center">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
+    </div>
+</p> 
+
+
 <!-- Stacks for web services -->      
 <p>
     <div align="center">
@@ -50,6 +64,8 @@
        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white">
        <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white">
        <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white">
+       <img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=plastic&logo=stack%20overflow&logoColor=white">
+       <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=plastic&logo=salesforce&logoColor=white">
     </div>
 </p>
 <!-- Operative Systems -->
@@ -73,25 +89,41 @@
     </div>
 </p>
 
+<!-- Statistics -->
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-<p>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ivanSantos16&theme=blue-green">
-    </div>
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ivanSantos16&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanSantos16&theme=blue-green&hide_border=true">		  
+  </a>
 </p>
+<br>
 <p>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green">
     </div>
 </p>
-<p>
-    <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanSantos16&theme=blue-green">
-    </div>
-</p>
+
+<!-- Current Projects -->
+
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+<ul>			
+	<li><i><a>XXXX</a></i>:<ul><li>BBBB (Under construction)</li></ul></li>
+	<li><i><a>XXXX</a></i>:<ul><li>BBBB (Released)</li></ul></li>
+	<li><i><a>XXXX (SAS)</a></i>:<ul><li>BBBB</li></ul></li>
+	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
+</ul>            
+
+<!-- About me -->
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+---
 
 <!-- Contact Section -->
-<h3>Where to find me</h3>
+<h3>Connect with me</h3>
 <p>
     <div align="left">
         <a href="https://www.linkedin.com/in/ivanrsantos/" rel="nofollow">
