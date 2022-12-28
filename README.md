@@ -111,7 +111,8 @@
 
 <p>
     <div align="center">
-        <img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&range=all_time">
+	<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&layout=compact&Cache-Control=no-cache">
+	<!--<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&range=all_time&Cache-Control=no-cache">-->
     </div>
 </p>
 <p>
