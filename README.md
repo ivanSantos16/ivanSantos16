@@ -115,9 +115,6 @@
 <!--END_SECTION:waka-->
 <!--END_SECTION:Statistics -->
 	    
-	    
-	   
-https://github-readme-stats.vercel.app/api/wakatime
 
 <!-- Current Projects -->
 
