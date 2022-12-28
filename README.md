@@ -106,13 +106,15 @@
     </div>
 </p>
 <!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p>
     <div align="center">
         <img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&range=all_time">
     </div>
 </p>
 <p>
-<!--END_SECTION:waka-->
 <!--END_SECTION:Statistics -->
 	    
 
