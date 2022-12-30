@@ -4,7 +4,7 @@
 
 ---
 
-<h3>Stacks/Tools I'm comfortable with:</h3>
+<h3>Stacks/Tools I'm comfortable with: :speak_no_evil: :computer: </h3>
 
 
 <!-- Languages -->
@@ -89,19 +89,29 @@
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&custom_title=Last%207%20Days%20Code%20Activity&hide_border=true&langs_count=10&Cache-Control=no-cache">
 </p>   
 
+<!-- About me -->
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> About Me
+In 2021, I was working on a StartUp related to agricultural technology and felt stagnated, but I realized that there is a lot to develop in terms of technology in agriculture. During my academic career in Agronomy, I had already developed a very basic application in VBA. So, I decided to venture into a post-graduation in Informatics.
+
+Many doubted that it would be possible to complete the whole cycle being a working student. Today I say that if we take all the challenges seriously and dedicate ourselves 100%, anything is possible.
+
+After a year of high dedication, I have added different tools to my stacks.
+I can program in python, R and java. I learned several programming paradigms, from functional programming to object oriented programming. I have gathered software validation and verification methodologies, using Junit and HtmlUnit (WebScraping). In addition to backend, I acquired the knowledge to perform the construction of graphical interfaces in Kivy. As a base for any computer scientist, I did not leave aside the knowledge of relational (SQL) and non-relational (NoSQL) databases.
+
+Without doubt, the biggest challenge of the last year was the development of a network application that allowed me to obtain basic knowledge related to Docker, Kubernetes and GCP.
+
+Nowadays, I'm working with Tech and Agriculture. I play the role of software developer in an agricultural insurance company and I'm building an underwriting program with multiple features related with risk and claims. At the same time, I coordinate the development of 2 more software associated with the agricultural insurance company.
+
 <!-- Current Projects -->
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a>XXXX</a></i>:<ul><li>BBBB (Under construction)</li></ul></li>
-	<li><i><a>XXXX</a></i>:<ul><li>BBBB (Released)</li></ul></li>
-	<li><i><a>XXXX (SAS)</a></i>:<ul><li>BBBB</li></ul></li>
+	<li><i><a>worldIT::salesforce</a></i>:<ul><li>BBBB (Under construction)</li></ul></li>
+	<li><i><a>AgroGestão::myAtlas</a></i>:<ul><li>BBBB (Released)</li></ul></li>
+	<li><i><a>Underwriting Software</a></i>:<ul><li>BBBB</li></ul></li>
 	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
 </ul>            
-
-<!-- About me -->
-
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
 ---
 
