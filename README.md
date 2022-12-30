@@ -8,7 +8,7 @@
 
 
 <!-- Languages -->
-<h4><i>Laguages:</i></h4>
+<h4><i>Languages:</i></h4>
 <p align="left">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue">
         <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white">
