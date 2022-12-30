@@ -99,9 +99,9 @@ Many doubted that it would be possible to complete the whole cycle being a worki
 After a year of high dedication, I have added different tools to my stacks.
 I can program in python, R and java. I learned several programming paradigms, from functional programming to object oriented programming. I have gathered software validation and verification methodologies, using Junit and HtmlUnit (WebScraping). In addition to backend, I acquired the knowledge to perform the construction of graphical interfaces in Kivy. As a base for any computer scientist, I did not leave aside the knowledge of relational (SQL) and non-relational (NoSQL) databases.
 
-Without doubt, the biggest challenge of the last year was the development of a network application that allowed me to obtain basic knowledge related to Docker, Kubernetes and GCP.
+Without doubt, the biggest challenge of 2022 was the development of a network application that allowed me to obtain basic knowledge related to Docker, Kubernetes and GCP.
 
-Nowadays, I'm working with Tech and Agriculture. I play the role of software developer in an agricultural insurance company and I'm building an underwriting program with multiple features related with risk and claims. At the same time, I coordinate the development of 2 more software associated with the agricultural insurance company.
+Nowadays, I'm working with Tech and Agriculture. I play the role of software developer in an agricultural insurance company and I'm building an underwriting program with multiple features related with risk and claims. This software in hosted on the cloud, runs on 2 containers that communicate with each other. At the same time, I coordinate the development of 2 more software associated with the agricultural insurance company. At least, with the help of Tetraedro, I'm implementing a data protection system based on the risk profile of the company with safetica.
 
 <!-- Current Projects -->
 
