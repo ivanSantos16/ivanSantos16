@@ -107,10 +107,10 @@ Nowadays, I'm working with Tech and Agriculture. I play the role of software dev
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a>worldIT::salesforce</a></i>:<ul><li>BBBB (Under construction)</li></ul></li>
-	<li><i><a>AgroGestão::myAtlas</a></i>:<ul><li>BBBB (Released)</li></ul></li>
-	<li><i><a>Underwriting Software</a></i>:<ul><li>BBBB</li></ul></li>
-	<li><i>A possible standard system for implementing AI models into Blender and other 3D model software. Just a thought.</i></li>
+	<li><i><a>worldIT::salesforce</a></i>:<ul><li>Project Manager. Budget definition. Error/Bug Report and Identification of new features to be implemented and how they should be implemented.</li></ul></li>
+	<li><i><a>AgroGestão::myAtlas</a></i>:<ul><li>Project Manager. Budget definition. Error/Bug Report and Identification of new features to be implemented and how they should be implemented. App administration. Management of communication between apps myAtlas <-> salesforce. </li></ul></li>
+	<li><i><a>Underwriting Software</a></i>:<ul><li>Due to the need to make the rate setting process for the following campaign more efficient, I'm developing an web service that allows the user of GreenLabAtlas to analyse agricultural insurance policy rates and set a rate for the following agricultural season. This package is an aditional module to the project developed by Greendata (greenlab) and gives Atlas' sales people the opportunity to analyse insurance rates for farmers via web services. This package can be accessed via endpoints in a secure network. | Stacks: R(Plumber), Docker and SQLite </li></ul></li>
+	<li><i><a>GreenData::GreenLabAtlas</a></i>:<ul><li>In partnership with GreenData, I am developing a dashboard interface that will centralize all the information about the company's products and services, claims and risk analyze. | Stacks: R(Plumber), Docker and SQLite </li></ul></li>
 </ul>            
 
 ---
