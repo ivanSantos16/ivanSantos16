@@ -108,14 +108,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 28 December 2022
+From: 28 December 2022 - To: 29 December 2022
 
-Total Time: 2 hrs 18 mins
+Total Time: 4 hrs 6 mins
 
-R        1 hr 53 mins    >>>>>>>>>>>>>>>>>>>>-----   81.62 %
-Docker   23 mins         >>>>---------------------   16.86 %
-Bash     1 min           -------------------------   01.02 %
-Other    0 secs          -------------------------   00.32 %
+R          3 hrs 36 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.85 %
+Docker     23 mins         >>-----------------------   09.47 %
+Bash       5 mins          >------------------------   02.36 %
+Other      0 secs          -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
