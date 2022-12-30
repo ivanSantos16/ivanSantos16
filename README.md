@@ -94,37 +94,14 @@
 
 <br/>
 <p align="left">
-  <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats-six-delta-65.vercel.app/api?username=ivanSantos16&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true&count_private=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanSantos16&theme=blue-green&hide_border=true">		  
   </a>
 </p>
-<br>
-<p>
-    <div align="center">
-        <img src="https://github-readme-stats-six-delta-65.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-    </div>
-</p>
-<!--START_SECTION:waka-->
-
-```text
-R          3 hrs 36 mins   ██████████████████████░░░   87.85 %
-Docker     23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Bash       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-```
-
-<!--END_SECTION:waka-->
-
-<p>
-    <div align="center">
-	<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&Cache-Control=no-cache">
-	<!--<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&range=all_time&Cache-Control=no-cache">-->
-    </div>
-</p>
-<p>
-<!--END_SECTION:Statistics -->
-	    
+<p align="left">
+        <img width="49.5%" src="https://github-readme-stats-six-delta-65.vercel.app/api/top-langs/?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&custom_title=Last%207%20Days%20Code%20Activity&hide_border=true&langs_count=10&Cache-Control=no-cache">
+</p>   
 
 <!-- Current Projects -->
 
