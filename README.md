@@ -118,7 +118,7 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <p>
     <div align="center">
-	<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&layout=compact&Cache-Control=no-cache">
+	<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777&Cache-Control=no-cache">
 	<!--<img src="https://github-readme-stats-six-delta-65.vercel.app/api/wakatime?username=ivanSantos16&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&range=all_time&Cache-Control=no-cache">-->
     </div>
 </p>
