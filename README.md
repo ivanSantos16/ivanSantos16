@@ -24,7 +24,7 @@
 	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white">
 	<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white">
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
-	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase">
 </p> 
 <!-- Stacks for web services -->      
 <h4><i>Stacks for web services:</i></h4>
