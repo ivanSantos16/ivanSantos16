@@ -45,7 +45,8 @@
 <!-- Other Tools -->
 <h4><i>Other Tools:</i></h4>
 <p align="left">
-       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white">
+       <a href="https://github.com/ivanSantos16/" rel="nofollow">
+       		<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white">
        <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white">
        <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=plastic&logo=Jupyter&logoColor=white">
        <img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=junit5&logoColor=white">
