@@ -30,6 +30,7 @@
 <h4><i>Stacks for web services:</i></h4>
 <p align="left">
         <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white">
+	<img src="https://custom-icon-badges.demolab.com/badge/Rplumber-212121?style=plastic&logo=rplumber">
         <img src="https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=plastic&logo=kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=google-cloud&logoColor=white">
