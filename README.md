@@ -15,8 +15,15 @@
         <img src="https://custom-icon-badges.demolab.com/badge/-APEX-white?style=plastic&logo=salesforceapex">
         <img src="https://custom-icon-badges.demolab.com/badge/-Java-white?style=plastic&logo=javalanguage">
         <img src="https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white">
+</p> 
+<h5><i>Know the basics:</i></h5>
+<p align="left">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+</p> 
+<h5><i>Starting to learn:</i></h5>
+<p align="left">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E">
 </p> 
 <!-- Databases --> 
 <h4><i>Databases:</i></h4>
