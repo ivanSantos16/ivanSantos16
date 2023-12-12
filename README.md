@@ -28,7 +28,7 @@
 <p>
     <div align="left">
         <a href="https://www.linkedin.com/in/ivanrsantos/" rel="nofollow">
-  		<img alt="Ivan Santos's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Ivan Santos's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" style="max-width: 100%;">
         <a href="https://github.com/ivanSantos16/" rel="nofollow">
   		<img alt="Ivan Santos's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="max-width: 100%;">
         <a href="mailto:ivan.rafa.16@gmail.com" rel="nofollow">
